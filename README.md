@@ -11,5 +11,5 @@ Covered EDA and Preprocessing part of the project.
 Day 3:
 
 Building Xgboost and other ensemble models to evaluate the performance and choose the best scored model.
-Hyperparameter tuning
+Hyperparameter tuning [xgboost](https://github.com/aman-sharma-nine/100daysofML/blob/master/xgboost_model.ipynb)
 
