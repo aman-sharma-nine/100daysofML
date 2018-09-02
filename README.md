@@ -13,3 +13,9 @@ Day 3:
 Building Xgboost and other ensemble models to evaluate the performance and choose the best scored model.
 Hyperparameter tuning [Telco Churn xgboost](https://github.com/aman-sharma-nine/100daysofML/blob/master/xgboost_model.ipynb)
 
+Day 4:
+Read Chapter 2: Statistical Learning of ISLR 
+
+Day 5:
+Chapter 8: Tree-Based Methods
+
