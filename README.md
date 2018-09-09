@@ -19,3 +19,9 @@ Read Chapter 2: Statistical Learning of ISLR
 Day 5:
 Chapter 8: Tree-Based Methods
 
+Day 6:
+Gradient Boosting
+
+Day 7:
+
+
