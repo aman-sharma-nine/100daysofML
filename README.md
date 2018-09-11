@@ -16,12 +16,16 @@ Hyperparameter tuning [Telco Churn xgboost](https://github.com/aman-sharma-nine/
 Day 4:
 Read Chapter 2: Statistical Learning of ISLR 
 
-Day 5:
+Day 5,6,7:
 Chapter 8: Tree-Based Methods
 
-Day 6:
+Day 8 :
 Gradient Boosting
 
-Day 7:
+Day 9:
+Started Deep Learning Specialization by Andrew Ng from deeplearning.ai
+Completed Week 1 of Neural Networks and Deep Learning Course
+
+
 
 
