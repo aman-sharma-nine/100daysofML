@@ -26,6 +26,9 @@ Day 9:
 Started Deep Learning Specialization by Andrew Ng from deeplearning.ai  
 Completed Week 1 of Neural Networks and Deep Learning Course . 
 
+Day 10:
+Week 2
+Binary Classification and Logistic Regressing using Neural Net
 
 
 
