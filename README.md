@@ -23,8 +23,8 @@ Day 8 :
 Gradient Boosting
 
 Day 9:
-Started Deep Learning Specialization by Andrew Ng from deeplearning.ai
-Completed Week 1 of Neural Networks and Deep Learning Course
+Started Deep Learning Specialization by Andrew Ng from deeplearning.ai  
+Completed Week 1 of Neural Networks and Deep Learning Course . 
 
 
 
