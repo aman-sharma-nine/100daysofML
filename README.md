@@ -34,9 +34,9 @@ Binary Classification and Logistic Regressing using Neural Net
 Day 11:
 
 Week 2 
-Logistic Reg cost function 
-Gardient Descent 
-Watched Essence of Calculus - 3Blue1brown (https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+Logistic Reg cost function . 
+Gardient Descent . 
+Watched Essence of Calculus - 3Blue1brown (https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) . 
 
 
 
