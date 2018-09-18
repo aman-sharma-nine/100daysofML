@@ -38,10 +38,10 @@ Logistic Reg cost function
 Gardient Descent  
 Watched Essence of Calculus - 3Blue1brown (https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) . 
 
-Day 12:
+Day 12:  
 Started building Neural Network from scratch. 
 
-Day 13:
+Day 13:  
 Great source to learn how to build single layer and multi layer perceptron and optimizing weight values (Backpropogation)
 
 https://iamtrask.github.io/2015/07/12/basic-python-network/
