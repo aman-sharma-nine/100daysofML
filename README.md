@@ -51,4 +51,6 @@ https://iamtrask.github.io/2015/07/12/basic-python-network/
 Day 14: 
 Logistic Regression with Neural Network mindset [Assignment](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
 
+Day 15:
+Started "Deploying Hadoop Cluster on EC2" on Udacity
 
