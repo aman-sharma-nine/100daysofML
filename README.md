@@ -48,4 +48,7 @@ Great source to learn how to build single layer and multi layer perceptron and o
 https://iamtrask.github.io/2015/07/12/basic-python-network/
 
 
+Day 14: 
+Logistic Regression with Neural Network mindset [Assignment](https://github.com/Kulbear/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+
 
